@@ -1,0 +1,9 @@
+body{
+	color:  red;
+}
+#aa{
+	width: 100px;
+	height:  100px;
+	border:  1px solid red;
+	background: url('../images/aa.jpg')
+}
